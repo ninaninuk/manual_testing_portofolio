@@ -88,4 +88,4 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orange hrm' and a table named 'languages' with all the columns needed to save data per specifications. Performed different queries inside the sql file: https://github.com/ninaninuk/manual_testing_portofolio/blob/6df41ed1864356724a7c8b45341ea2aa83a3adf4/Final%20Projec/orange%20hrm.sql
+Created a database named 'orange hrm' and a table named 'languages' with all the columns needed to save data per specifications. Performed different queries inside the sql file: (https://github.com/ninaninuk/manual_testing_portofolio/blob/6df41ed1864356724a7c8b45341ea2aa83a3adf4/Final%20Projec/orange%20hrm.sql)
