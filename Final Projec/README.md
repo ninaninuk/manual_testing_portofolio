@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> scr 1 Jira
 
 
 # 1 Testing section
