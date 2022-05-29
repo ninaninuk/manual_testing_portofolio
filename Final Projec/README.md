@@ -28,11 +28,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.2 Entry criteria defined
-.functional specifications are defined
-.initial project risks were detected and mitigated
-.roles needed for the project are allocated
-.Develop Project Management Plan it ok
-.Plan Resource Management 
+*functional specifications are defined
+*initial project risks were detected and mitigated
+*roles needed for the project are allocated
+*Develop Project Management Plan it ok
+* Plan Resource Management 
 
 #### 1.1.3 Exit criteria defined
  .Exploratory regression testing must be performed on the My Info module, which includes the Languages section
