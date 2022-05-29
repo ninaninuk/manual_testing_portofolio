@@ -23,14 +23,16 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+![image](https://user-images.githubusercontent.com/103954664/170875665-40cfb08e-55b6-4c94-be8f-c6478921b5dc.png)
+
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
 
 #### 1.1.2 Entry criteria defined
-* functional specifications are defined
-* initial project risks were detected and mitigated
-* roles needed for the project are allocated
+* Functional specifications are defined
+* Initial project risks were detected and mitigated
+* Roles needed for the project are allocated
 * Develop Project Management Plan it ok
 * Plan Resource Management 
 
@@ -42,8 +44,8 @@ The plan identifies the items to be tested, the features to be tested, the types
  * No critical issues must be open
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__  All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests not in scope:__  Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
