@@ -28,18 +28,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.2 Entry criteria defined
-*functional specifications are defined
-*initial project risks were detected and mitigated
-*roles needed for the project are allocated
-*Develop Project Management Plan it ok
+* functional specifications are defined
+* initial project risks were detected and mitigated
+* roles needed for the project are allocated
+* Develop Project Management Plan it ok
 * Plan Resource Management 
 
 #### 1.1.3 Exit criteria defined
- .Exploratory regression testing must be performed on the My Info module, which includes the Languages section
- .All user stories in the sprint backlog must be completed 
- .All design tasks and special tasks picked for the sprint must be completed
- .Regression testing of all features developed in all previous sprints must be executed
- .No critical issues must be open
+ * Exploratory regression testing must be performed on the My Info module, which includes the Languages section
+ * All user stories in the sprint backlog must be completed 
+ * All design tasks and special tasks picked for the sprint must be completed
+ * Regression testing of all features developed in all previous sprints must be executed
+ * No critical issues must be open
 #### 1.1.4 Test scope
 
 * __Tests in scope:__ 
