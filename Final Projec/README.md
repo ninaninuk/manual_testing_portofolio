@@ -108,7 +108,10 @@ The following elements are needed to be ready before the test execution phase be
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+   * 'Competency' drop-down contains other values.
+   * 'Fluency' drop-down contains other values.
+   *	Can not add a comments that is 200 characters is long
+ 	 * [Languages]A Language cannot be added 
 
 
 ## 1.7 Test Completion
