@@ -70,8 +70,17 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the Languages module. The following test conditions were found:
+ 
+ 
+  * Enter data only for mandatory fields and check that the language is created/updated
+  * Enter data for all available fields and check that the language is created/updated
+  * Leave mandatory fields empty and check that the language cannot be created/updated
+  * View language details and check they are correct
+  * View all languages in a list
+  * Check all validation constraints for the fields
+  * Check that a languages can be deleted
+
 
 ## 1.4 Test Design
 
