@@ -96,7 +96,7 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 ## 1.5 Test Implementation
 
-The following elements are needed to be ready before the test execution phase begins:
+The following elements are needed to be ready before the test execution phase begins:https://opensource-demo.orangehrmlive.com/
 
 * enter here what needs to be ready for the test execution to begin
 
