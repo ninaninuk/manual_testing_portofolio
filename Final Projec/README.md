@@ -67,6 +67,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+![image](https://user-images.githubusercontent.com/103954664/171167616-489fc841-912a-4550-8632-d075bc89d8bb.png)
 
 ## 1.3 Test Analysis
 
