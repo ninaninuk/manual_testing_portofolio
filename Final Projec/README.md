@@ -91,7 +91,7 @@ are:
 **Test cases:**
 -> enter here test cases or at least the titles
 
-![image](https://user-images.githubusercontent.com/103954664/171159645-cc794b91-a391-4c6a-ad64-9854202663d3.png)
+
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
 
